@@ -1,0 +1,11 @@
+/node_modules/
+
+dist
+main.js
+data.json
+
+bundle*
+/.yarn/
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/settings.json
