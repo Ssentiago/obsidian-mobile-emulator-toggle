@@ -1,5 +1,5 @@
 {
-    "name": "example",
+    "name": "obisidan-emulation-switch",
     "packageManager": "yarn@4.4.0",
     "author": "Sentiago",
     "license": "Apache-2.0",
