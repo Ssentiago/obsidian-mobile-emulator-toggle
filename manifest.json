@@ -1,5 +1,5 @@
 {
-    "id": "obisidan-emulation-switch",
+    "id": "obsidian-mobile-emulator-toggle",
     "name": "Emulation switch",
     "version": "0.1.0",
     "minAppVersion": "1.6.5",
