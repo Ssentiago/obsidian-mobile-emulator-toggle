@@ -1,4 +1,4 @@
-# Emulation Switch Plugin
+# Mobile Emulator Toggle Plugin
 
 This is a simple plugin for switching between mobile and desktop emulation within the Obsidian application.
 
